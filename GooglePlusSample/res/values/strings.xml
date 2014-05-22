@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Google+ Log in</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="empty_string"></string>
+    <string name="name">Nombre</string>
+    <string name="email">Email</string>
+    
+    <string name="sign_out_button">Sign Out</string>
+    <string name="revoke_access_button">Revoke</string>
+    
+</resources>

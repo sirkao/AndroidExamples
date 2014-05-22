@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="transparent">#00ffff</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="turquoise">#41C6BA</color>
+    <color name="gray_background">#737373</color>
+    
+    <color name="gray_light_button_background">#F1F1F1</color>
+    <color name="gray_dark_button_background">#666666</color>
+    
+    <color name="menu_background">@color/turquoise</color>
+    <color name="menu_background_pressed">#808080</color>
+    <color name="list_divider_result_search">#C1B997</color>
+    <color name="list_background_result_search">#DCD6BD</color>
+    <color name="list_divider">#272727</color>
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+
+</resources>
